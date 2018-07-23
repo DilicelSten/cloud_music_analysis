@@ -23,7 +23,7 @@ Based on python2.7
 * first step
 using the crawl_music.py to store music lyrics in directory:lyrics
 * second step
-*using the analysis.py to analyze and get the wordcloud
+using the analysis.py to analyze and get the wordcloud
 
 
 

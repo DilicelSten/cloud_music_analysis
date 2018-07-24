@@ -3,8 +3,10 @@ Crawling top 50 music lyrics of xuezhiqian and analysing the number of words he 
 
 ## Main codes
 * crawl_music.py
+
 crawling music lyrics through the links
 * analysis.py
+
 spliting the sentences, removing the stop words and then computing the number of words. Finally we can see the word cloud.
 
 ## Operating environment
